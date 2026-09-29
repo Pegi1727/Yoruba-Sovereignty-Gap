@@ -2,7 +2,7 @@
 
 # The Sovereignty Gap in Yorùbá NLP: Orthographic Integrity, Contextual Disambiguation, and Linguistic Data Sovereignty
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10892345-blue.svg)](https://doi.org/10.5281/zenodo.10892345)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23037713-blue.svg)](https://doi.org/10.5281/zenodo.23037713)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Benchmark](https://img.shields.io/badge/Benchmark-YorTIB--200-success.svg)](data/yortib_200.json)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)

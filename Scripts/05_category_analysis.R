@@ -1,0 +1,6 @@
+library(readr); library(dplyr)
+x<-read_csv("results/figure_data/item_level_with_gold.csv",show_col_types=FALSE)
+m<-c("husband"="Everyday Vocabulary","person"="Everyday Vocabulary","creature"="Everyday Vocabulary","farm"="Agriculture","vehicle"="Transportation","medicine"="Medicine","poison"="Medicine","heaven"="Spiritual Concepts","spiritual power"="Spiritual Concepts","spirit world"="Spiritual Concepts","afterlife"="Spiritual Concepts","sky"="Spiritual Concepts","authority"="Moral / Philosophical Concepts","character"="Moral / Philosophical Concepts","behavior"="Moral / Philosophical Concepts","command"="Moral / Philosophical Concepts","inheritance"="Moral / Philosophical Concepts","permission"="Moral / Philosophical Concepts","moral nature"="Moral / Philosophical Concepts","war"="Moral / Philosophical Concepts","creation"="Ontological Concepts","existence"="Ontological Concepts","being"="Ontological Concepts","spear"="Ontological Concepts")
+x$category<-unname(m[as.character(x$answer)]); stopifnot(!any(is.na(x$category)))
+out<-x%>%group_by(category)%>%summarise(N=n(),baseline_accuracy=mean(baseline_correct),sovereign_accuracy=mean(sovereign_correct),.groups="drop")
+write_csv(out,"results/r/category_analysis.csv"); print(out)

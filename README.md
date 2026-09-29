@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # The Sovereignty Gap in Yorùbá NLP: Orthographic Integrity, Contextual Disambiguation, and Linguistic Data Sovereignty
@@ -24,17 +22,35 @@
 
 ---
 
-## 📌 Executive Summary
+## Overview
 
 Tonal and subdot diacritics in Yorùbá orthography are not decorative accents; they are foundational, morphemic determinants of lexical semantics and syntactic grammatical class. Standard multi-lingual Natural Language Processing (NLP) pipelines routinely strip or normalize these diacritics under the guise of "noise removal" or token vocabulary consolidation. 
 
-This repository houses the **YorTIB-200** (*Yorùbá Tone & Meaning Integrity Benchmark*) dataset and reproducible01$).* | *Figure 4: Consistent across-the-board disambiguation failure in flattened text vs. sovereign retention across all 7 domains.* |
+This repository houses the **YorTIB-200** (*Yorùbá Tone & Meaning Integrity Benchmark*) dataset and reproducible evaluation codebase. Our empirical audit reveals an overall **61.0 percentage point performance collapse** (*The Sovereignty Gap*) when language models evaluate orthographically stripped text versus orthographically sovereign text ($38.5\%$ vs. $99.5\%$, McNemar $p = 3.76 \times 10^{-37}$).
+
+---
+
+## Visual Summary of Key Findings
+
+High-resolution vector-rendered infographics summarizing each core stage of the empirical study:
+
+<div align="center">
+
+| Figure 1: Benchmark Dataset | Figure 2: Representation Conditions |
+| :---: | :---: |
+| [![Figure 1](Figures/Figure_1.jpg)](Figures/Figure_1.jpg) | [![Figure 2](Figures/Figure_2.jpg)](Figures/Figure_2.jpg) |
+| *YorTIB-200 Benchmark: 200 curated instances across 6 polysemous lexical roots and 7 semantic domains.* | *Dual-condition paired setup: Flat Baseline (unmarked) vs. Sovereign-Preserving (full diacritics).* |
+
+| Figure 3: Empirical Results & McNemar | Figure 4: Performance by Semantic Category |
+| :---: | :---: |
+| [![Figure 3](Figures/Figure_3.jpg)](Figures/Figure_3.jpg) | [![Figure 4](Figures/Figure_4.jpg)](Figures/Figure_4.jpg) |
+| *Overall performance gap (+61.0 pp) and McNemar statistical significance ($p < 0.001$).* | *Consistent disambiguation failure in flattened text vs. sovereign preservation across all 7 domains.* |
 
 </div>
 
 ---
 
-## 📊 Summary of Empirical Results
+## Summary of Empirical Results
 
 All evaluations were conducted in a strictly controlled, paired setting over $N = 200$ naturalistic sentence contexts.
 
@@ -60,8 +76,7 @@ All evaluations were conducted in a strictly controlled, paired setting over $N 
 
 ---
 
-## 📁 Repository Structure
-
+## Repository Structure
 ```text
 Yoruba-Sovereignty-Gap/
 ├── README.md                          # Repository documentation & publication report
@@ -83,4 +98,4 @@ Yoruba-Sovereignty-Gap/
 │   ├── evaluate.py                    # Replication script (McNemar, Bootstrap CI, Metrics)
 │   └── populate_predictions.py       # Template parsing & inference verification pipeline
 └── reports/
-    └── gold_audit_report.xlsx         # Complete data audit report and statistical summary
+└── gold_audit_report.xlsx         # Complete data audit report and statistical summary

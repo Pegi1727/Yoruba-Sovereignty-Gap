@@ -1,0 +1,201 @@
+id,sentence,focus_word,options,baseline_prediction,sovereign_prediction
+1,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,spirit world
+2,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,spirit world
+3,Ade ra ọkọ tuntun,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,vehicle
+4,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,afterlife
+5,ọkọ Ade ti bajẹ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,vehicle
+6,Wọn sọ pe àṣẹ jẹ pataki,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,spiritual power
+7,Ade ra ìwà tuntun,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,character
+8,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,spirit world
+9,ẹ̀dá Ade ti bajẹ,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+10,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",farm,farm
+11,Ade ra àṣẹ tuntun,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+12,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,farm
+13,Ade ra àṣẹ tuntun,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+14,Wọn sọ pe ẹ̀dá jẹ pataki,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creation
+15,Olùkọ́ sọ nipa ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,moral nature
+16,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+17,Ade ra ẹ̀dá tuntun,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+18,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creation
+19,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creation
+20,Mo ri ọkọ lana,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",farm,husband
+21,Ade ra ògùn tuntun,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,medicine
+22,ògùn naa wa ni ile,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,war
+23,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,afterlife
+24,Wọn sọ pe àṣẹ jẹ pataki,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,spiritual power
+25,Mo ri ògùn lana,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",war,war
+26,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creation
+27,ọkọ Ade ti bajẹ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,vehicle
+28,Ade ra ẹ̀dá tuntun,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+29,Gbogbo eniyan mọ ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,farm
+30,Wọn sọ pe àṣẹ jẹ pataki,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,spiritual power
+31,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+32,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,farm
+33,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,behavior
+34,ẹ̀dá Ade ti bajẹ,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+35,Mo ri ọkọ lana,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",farm,husband
+36,Ade ra ọkọ tuntun,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,vehicle
+37,Olùkọ́ sọ nipa ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,spear
+38,Ade ra ìwà tuntun,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,character
+39,Mo ri àṣẹ lana,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,command
+40,Olùkọ́ sọ nipa ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,moral nature
+41,ògùn naa wa ni ile,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",poison,war
+42,ìwà naa wa ni ile,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,behavior
+43,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+44,Ade ra ẹ̀dá tuntun,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creature
+45,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,afterlife
+46,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,heaven
+47,Ade ra ẹ̀dá tuntun,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+48,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,heaven
+49,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+50,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+51,Wọn sọ pe ògùn jẹ pataki,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,inheritance
+52,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+53,Gbogbo eniyan mọ ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,farm
+54,Wọn sọ pe ìwà jẹ pataki,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,existence
+55,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,spirit world
+56,Wọn sọ pe àṣẹ jẹ pataki,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,spiritual power
+57,Olùkọ́ sọ nipa ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,spear
+58,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+59,Gbogbo eniyan mọ ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,inheritance
+60,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,authority
+61,Wọn sọ pe ìwà jẹ pataki,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,existence
+62,Mo ri ọ̀run lana,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,sky
+63,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,spiritual power
+64,Wọn sọ pe ìwà jẹ pataki,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,existence
+65,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+66,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,spiritual power
+67,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+68,Gbogbo eniyan mọ ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,farm
+69,A nilo ọkọ fun iṣẹ yii,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,vehicle
+70,ògùn Ade ti bajẹ,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,medicine
+71,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+72,Wọn sọ pe ògùn jẹ pataki,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,inheritance
+73,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",being,creation
+74,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+75,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,spirit world
+76,Ade ra àṣẹ tuntun,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,authority
+77,ògùn naa wa ni ile,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,war
+78,Gbogbo eniyan mọ ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,inheritance
+79,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,heaven
+80,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+81,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,authority
+82,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+83,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+84,A nilo ògùn fun iṣẹ yii,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",war,medicine
+85,Ade ra ògùn tuntun,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,medicine
+86,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,heaven
+87,Olùkọ́ sọ nipa ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,spear
+88,Wọn sọ pe ẹ̀dá jẹ pataki,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creation
+89,àṣẹ Ade ti bajẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,authority
+90,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,spirit world
+91,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,afterlife
+92,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,farm
+93,Olùkọ́ sọ nipa ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,poison
+94,Gbogbo eniyan mọ ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,inheritance
+95,Ade ra ìwà tuntun,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,character
+96,Wọn sọ pe ọ̀run jẹ pataki,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,spirit world
+97,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creation
+98,Gbogbo eniyan mọ ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,existence
+99,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+100,Ade ra ọkọ tuntun,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,vehicle
+101,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,farm
+102,ẹ̀dá naa wa ni ile,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",being,person
+103,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+104,Gbogbo eniyan mọ ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,spirit world
+105,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+106,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+107,Ade ra ọkọ tuntun,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",farm,vehicle
+108,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,spiritual power
+109,Olùkọ́ sọ nipa ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",poison,poison
+110,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,spiritual power
+111,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+112,Olùkọ́ sọ nipa àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,permission
+113,Olùkọ́ sọ nipa ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,moral nature
+114,Gbogbo eniyan mọ ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,spirit world
+115,Olùkọ́ sọ nipa ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,moral nature
+116,Ade ra àṣẹ tuntun,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,authority
+117,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,character
+118,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,behavior
+119,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",farm,farm
+120,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+121,Ade ra àṣẹ tuntun,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+122,A nilo ọkọ fun iṣẹ yii,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,vehicle
+123,àṣẹ naa wa ni ile,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,command
+124,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,authority
+125,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+126,Mo ri àṣẹ lana,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,command
+127,àṣẹ naa wa ni ile,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,command
+128,àṣẹ naa wa ni ile,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,command
+129,A nilo ìwà fun iṣẹ yii,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+130,Olùkọ́ sọ nipa àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,permission
+131,Mo ri ẹ̀dá lana,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,person
+132,ìwà naa wa ni ile,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+133,A nilo ọkọ fun iṣẹ yii,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,vehicle
+134,Olùkọ́ sọ nipa ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",person,being
+135,Olùkọ́ sọ nipa àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,permission
+136,Mo ri ọkọ lana,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,husband
+137,ìwà naa wa ni ile,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+138,Gbogbo eniyan mọ ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,spirit world
+139,Mo ri ọ̀run lana,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,sky
+140,Wọn sọ pe ògùn jẹ pataki,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,inheritance
+141,ọ̀run Ade ti bajẹ,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+142,Mo ri ẹ̀dá lana,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",person,person
+143,ẹ̀dá naa wa ni ile,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",being,person
+144,ògùn Ade ti bajẹ,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",war,medicine
+145,Olùkọ́ sọ nipa ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,poison
+146,ìwà naa wa ni ile,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+147,ọkọ naa wa ni ile,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,husband
+148,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,spiritual power
+149,Olùkọ́ sọ nipa ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,being
+150,ọ̀run naa wa ni ile,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",sky,sky
+151,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,afterlife
+152,Mo ri ọ̀run lana,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,sky
+153,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+154,Olùkọ́ sọ nipa ọkọ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",husband,spear
+155,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",heaven,heaven
+156,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,spiritual power
+157,Olùkọ́ sọ nipa àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,permission
+158,Mo ri ẹ̀dá lana,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,person
+159,Mo ri ògùn lana,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,war
+160,Wọn sọ pe ògùn jẹ pataki,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",war,inheritance
+161,Gbogbo eniyan mọ ẹ̀dá,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",person,creation
+162,Wọn sọ pe ẹ̀dá jẹ pataki,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,creation
+163,Wọn sọ pe ọkọ jẹ pataki,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,farm
+164,Gbogbo eniyan mọ ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,behavior
+165,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",moral nature,character
+166,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,behavior
+167,Ade ra ọ̀run tuntun,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,heaven
+168,Wọn sọ pe àṣẹ jẹ pataki,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,spiritual power
+169,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,authority
+170,ọkọ Ade ti bajẹ,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",spear,vehicle
+171,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,authority
+172,Olùkọ́ sọ nipa àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,permission
+173,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+174,A nilo ìwà fun iṣẹ yii,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,character
+175,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,afterlife
+176,Mo ri ẹ̀dá lana,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",person,person
+177,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+178,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,character
+179,A nilo ọkọ fun iṣẹ yii,ọkọ,"[""vehicle"", ""husband"", ""farm"", ""spear""]",vehicle,vehicle
+180,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,afterlife
+181,A nilo àṣẹ fun iṣẹ yii,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",authority,authority
+182,àṣẹ naa wa ni ile,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",permission,command
+183,ẹ̀dá naa wa ni ile,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creation,person
+184,Gbogbo eniyan mọ àṣẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",spiritual power,spiritual power
+185,Mo ri ẹ̀dá lana,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",being,person
+186,ìwà Ade ti bajẹ,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,character
+187,ìwà naa wa ni ile,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",character,behavior
+188,Olùkọ́ sọ nipa ọ̀run,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",afterlife,afterlife
+189,A nilo ọ̀run fun iṣẹ yii,ọ̀run,"[""heaven"", ""sky"", ""spirit world"", ""afterlife""]",spirit world,heaven
+190,Olùkọ́ sọ nipa ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",medicine,poison
+191,Mo ri ìwà lana,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,behavior
+192,àṣẹ Ade ti bajẹ,àṣẹ,"[""authority"", ""command"", ""spiritual power"", ""permission""]",command,authority
+193,Gbogbo eniyan mọ ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",poison,inheritance
+194,Wọn sọ pe ìwà jẹ pataki,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,existence
+195,Gbogbo eniyan mọ ìwà,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",existence,existence
+196,Olùkọ́ sọ nipa ògùn,ògùn,"[""medicine"", ""war"", ""inheritance"", ""poison""]",inheritance,poison
+197,Ade ra ìwà tuntun,ìwà,"[""character"", ""behavior"", ""existence"", ""moral nature""]",behavior,character
+198,Wọn sọ pe ẹ̀dá jẹ pataki,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",person,creation
+199,ẹ̀dá Ade ti bajẹ,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature
+200,A nilo ẹ̀dá fun iṣẹ yii,ẹ̀dá,"[""creature"", ""person"", ""creation"", ""being""]",creature,creature

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 2,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 3,
+    "sentence": "Ade ra ọkọ tuntun",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 4,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 5,
+    "sentence": "ọkọ Ade ti bajẹ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 6,
+    "sentence": "Wọn sọ pe àṣẹ jẹ pataki",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 7,
+    "sentence": "Ade ra ìwà tuntun",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 8,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 9,
+    "sentence": "ẹ̀dá Ade ti bajẹ",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 10,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 11,
+    "sentence": "Ade ra àṣẹ tuntun",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 12,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 13,
+    "sentence": "Ade ra àṣẹ tuntun",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 14,
+    "sentence": "Wọn sọ pe ẹ̀dá jẹ pataki",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 15,
+    "sentence": "Olùkọ́ sọ nipa ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "moral nature"
+  },
+  {
+    "id": 16,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 17,
+    "sentence": "Ade ra ẹ̀dá tuntun",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 18,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 19,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 20,
+    "sentence": "Mo ri ọkọ lana",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "husband"
+  },
+  {
+    "id": 21,
+    "sentence": "Ade ra ògùn tuntun",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "medicine"
+  },
+  {
+    "id": 22,
+    "sentence": "ògùn naa wa ni ile",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "war"
+  },
+  {
+    "id": 23,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 24,
+    "sentence": "Wọn sọ pe àṣẹ jẹ pataki",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 25,
+    "sentence": "Mo ri ògùn lana",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "war"
+  },
+  {
+    "id": 26,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 27,
+    "sentence": "ọkọ Ade ti bajẹ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 28,
+    "sentence": "Ade ra ẹ̀dá tuntun",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 29,
+    "sentence": "Gbogbo eniyan mọ ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 30,
+    "sentence": "Wọn sọ pe àṣẹ jẹ pataki",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 31,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 32,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 33,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 34,
+    "sentence": "ẹ̀dá Ade ti bajẹ",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 35,
+    "sentence": "Mo ri ọkọ lana",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "husband"
+  },
+  {
+    "id": 36,
+    "sentence": "Ade ra ọkọ tuntun",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 37,
+    "sentence": "Olùkọ́ sọ nipa ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "spear"
+  },
+  {
+    "id": 38,
+    "sentence": "Ade ra ìwà tuntun",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 39,
+    "sentence": "Mo ri àṣẹ lana",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 40,
+    "sentence": "Olùkọ́ sọ nipa ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "moral nature"
+  },
+  {
+    "id": 41,
+    "sentence": "ògùn naa wa ni ile",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "war"
+  },
+  {
+    "id": 42,
+    "sentence": "ìwà naa wa ni ile",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 43,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 44,
+    "sentence": "Ade ra ẹ̀dá tuntun",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 45,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 46,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 47,
+    "sentence": "Ade ra ẹ̀dá tuntun",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 48,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 49,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 50,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 51,
+    "sentence": "Wọn sọ pe ògùn jẹ pataki",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 52,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 53,
+    "sentence": "Gbogbo eniyan mọ ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 54,
+    "sentence": "Wọn sọ pe ìwà jẹ pataki",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 55,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 56,
+    "sentence": "Wọn sọ pe àṣẹ jẹ pataki",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 57,
+    "sentence": "Olùkọ́ sọ nipa ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "spear"
+  },
+  {
+    "id": 58,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 59,
+    "sentence": "Gbogbo eniyan mọ ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 60,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 61,
+    "sentence": "Wọn sọ pe ìwà jẹ pataki",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 62,
+    "sentence": "Mo ri ọ̀run lana",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "sky"
+  },
+  {
+    "id": 63,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 64,
+    "sentence": "Wọn sọ pe ìwà jẹ pataki",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 65,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 66,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 67,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 68,
+    "sentence": "Gbogbo eniyan mọ ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 69,
+    "sentence": "A nilo ọkọ fun iṣẹ yii",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 70,
+    "sentence": "ògùn Ade ti bajẹ",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "medicine"
+  },
+  {
+    "id": 71,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 72,
+    "sentence": "Wọn sọ pe ògùn jẹ pataki",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 73,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 74,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 75,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 76,
+    "sentence": "Ade ra àṣẹ tuntun",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 77,
+    "sentence": "ògùn naa wa ni ile",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "war"
+  },
+  {
+    "id": 78,
+    "sentence": "Gbogbo eniyan mọ ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 79,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 80,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 81,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 82,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 83,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 84,
+    "sentence": "A nilo ògùn fun iṣẹ yii",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "medicine"
+  },
+  {
+    "id": 85,
+    "sentence": "Ade ra ògùn tuntun",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "medicine"
+  },
+  {
+    "id": 86,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 87,
+    "sentence": "Olùkọ́ sọ nipa ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "spear"
+  },
+  {
+    "id": 88,
+    "sentence": "Wọn sọ pe ẹ̀dá jẹ pataki",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 89,
+    "sentence": "àṣẹ Ade ti bajẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 90,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 91,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 92,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 93,
+    "sentence": "Olùkọ́ sọ nipa ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "poison"
+  },
+  {
+    "id": 94,
+    "sentence": "Gbogbo eniyan mọ ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 95,
+    "sentence": "Ade ra ìwà tuntun",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 96,
+    "sentence": "Wọn sọ pe ọ̀run jẹ pataki",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 97,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 98,
+    "sentence": "Gbogbo eniyan mọ ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 99,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 100,
+    "sentence": "Ade ra ọkọ tuntun",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 101,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 102,
+    "sentence": "ẹ̀dá naa wa ni ile",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 103,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 104,
+    "sentence": "Gbogbo eniyan mọ ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 105,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 106,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 107,
+    "sentence": "Ade ra ọkọ tuntun",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 108,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 109,
+    "sentence": "Olùkọ́ sọ nipa ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "poison"
+  },
+  {
+    "id": 110,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 111,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 112,
+    "sentence": "Olùkọ́ sọ nipa àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "permission"
+  },
+  {
+    "id": 113,
+    "sentence": "Olùkọ́ sọ nipa ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "moral nature"
+  },
+  {
+    "id": 114,
+    "sentence": "Gbogbo eniyan mọ ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 115,
+    "sentence": "Olùkọ́ sọ nipa ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "moral nature"
+  },
+  {
+    "id": 116,
+    "sentence": "Ade ra àṣẹ tuntun",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 117,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 118,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 119,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 120,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 121,
+    "sentence": "Ade ra àṣẹ tuntun",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 122,
+    "sentence": "A nilo ọkọ fun iṣẹ yii",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 123,
+    "sentence": "àṣẹ naa wa ni ile",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 124,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 125,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 126,
+    "sentence": "Mo ri àṣẹ lana",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 127,
+    "sentence": "àṣẹ naa wa ni ile",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 128,
+    "sentence": "àṣẹ naa wa ni ile",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 129,
+    "sentence": "A nilo ìwà fun iṣẹ yii",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 130,
+    "sentence": "Olùkọ́ sọ nipa àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "permission"
+  },
+  {
+    "id": 131,
+    "sentence": "Mo ri ẹ̀dá lana",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 132,
+    "sentence": "ìwà naa wa ni ile",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 133,
+    "sentence": "A nilo ọkọ fun iṣẹ yii",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 134,
+    "sentence": "Olùkọ́ sọ nipa ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "being"
+  },
+  {
+    "id": 135,
+    "sentence": "Olùkọ́ sọ nipa àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "permission"
+  },
+  {
+    "id": 136,
+    "sentence": "Mo ri ọkọ lana",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "husband"
+  },
+  {
+    "id": 137,
+    "sentence": "ìwà naa wa ni ile",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 138,
+    "sentence": "Gbogbo eniyan mọ ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "spirit world"
+  },
+  {
+    "id": 139,
+    "sentence": "Mo ri ọ̀run lana",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "sky"
+  },
+  {
+    "id": 140,
+    "sentence": "Wọn sọ pe ògùn jẹ pataki",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 141,
+    "sentence": "ọ̀run Ade ti bajẹ",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 142,
+    "sentence": "Mo ri ẹ̀dá lana",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 143,
+    "sentence": "ẹ̀dá naa wa ni ile",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 144,
+    "sentence": "ògùn Ade ti bajẹ",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "medicine"
+  },
+  {
+    "id": 145,
+    "sentence": "Olùkọ́ sọ nipa ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "poison"
+  },
+  {
+    "id": 146,
+    "sentence": "ìwà naa wa ni ile",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 147,
+    "sentence": "ọkọ naa wa ni ile",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "husband"
+  },
+  {
+    "id": 148,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 149,
+    "sentence": "Olùkọ́ sọ nipa ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "being"
+  },
+  {
+    "id": 150,
+    "sentence": "ọ̀run naa wa ni ile",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "sky"
+  },
+  {
+    "id": 151,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 152,
+    "sentence": "Mo ri ọ̀run lana",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "sky"
+  },
+  {
+    "id": 153,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 154,
+    "sentence": "Olùkọ́ sọ nipa ọkọ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "spear"
+  },
+  {
+    "id": 155,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 156,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 157,
+    "sentence": "Olùkọ́ sọ nipa àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "permission"
+  },
+  {
+    "id": 158,
+    "sentence": "Mo ri ẹ̀dá lana",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 159,
+    "sentence": "Mo ri ògùn lana",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "war"
+  },
+  {
+    "id": 160,
+    "sentence": "Wọn sọ pe ògùn jẹ pataki",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 161,
+    "sentence": "Gbogbo eniyan mọ ẹ̀dá",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 162,
+    "sentence": "Wọn sọ pe ẹ̀dá jẹ pataki",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 163,
+    "sentence": "Wọn sọ pe ọkọ jẹ pataki",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "farm"
+  },
+  {
+    "id": 164,
+    "sentence": "Gbogbo eniyan mọ ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 165,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 166,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 167,
+    "sentence": "Ade ra ọ̀run tuntun",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 168,
+    "sentence": "Wọn sọ pe àṣẹ jẹ pataki",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 169,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 170,
+    "sentence": "ọkọ Ade ti bajẹ",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 171,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 172,
+    "sentence": "Olùkọ́ sọ nipa àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "permission"
+  },
+  {
+    "id": 173,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 174,
+    "sentence": "A nilo ìwà fun iṣẹ yii",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 175,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 176,
+    "sentence": "Mo ri ẹ̀dá lana",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 177,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 178,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 179,
+    "sentence": "A nilo ọkọ fun iṣẹ yii",
+    "focus_word": "ọkọ",
+    "options": [
+      "vehicle",
+      "husband",
+      "farm",
+      "spear"
+    ],
+    "answer": "vehicle"
+  },
+  {
+    "id": 180,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 181,
+    "sentence": "A nilo àṣẹ fun iṣẹ yii",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 182,
+    "sentence": "àṣẹ naa wa ni ile",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "command"
+  },
+  {
+    "id": 183,
+    "sentence": "ẹ̀dá naa wa ni ile",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 184,
+    "sentence": "Gbogbo eniyan mọ àṣẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "spiritual power"
+  },
+  {
+    "id": 185,
+    "sentence": "Mo ri ẹ̀dá lana",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "person"
+  },
+  {
+    "id": 186,
+    "sentence": "ìwà Ade ti bajẹ",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 187,
+    "sentence": "ìwà naa wa ni ile",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 188,
+    "sentence": "Olùkọ́ sọ nipa ọ̀run",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "afterlife"
+  },
+  {
+    "id": 189,
+    "sentence": "A nilo ọ̀run fun iṣẹ yii",
+    "focus_word": "ọ̀run",
+    "options": [
+      "heaven",
+      "sky",
+      "spirit world",
+      "afterlife"
+    ],
+    "answer": "heaven"
+  },
+  {
+    "id": 190,
+    "sentence": "Olùkọ́ sọ nipa ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "poison"
+  },
+  {
+    "id": 191,
+    "sentence": "Mo ri ìwà lana",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "behavior"
+  },
+  {
+    "id": 192,
+    "sentence": "àṣẹ Ade ti bajẹ",
+    "focus_word": "àṣẹ",
+    "options": [
+      "authority",
+      "command",
+      "spiritual power",
+      "permission"
+    ],
+    "answer": "authority"
+  },
+  {
+    "id": 193,
+    "sentence": "Gbogbo eniyan mọ ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "inheritance"
+  },
+  {
+    "id": 194,
+    "sentence": "Wọn sọ pe ìwà jẹ pataki",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 195,
+    "sentence": "Gbogbo eniyan mọ ìwà",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "existence"
+  },
+  {
+    "id": 196,
+    "sentence": "Olùkọ́ sọ nipa ògùn",
+    "focus_word": "ògùn",
+    "options": [
+      "medicine",
+      "war",
+      "inheritance",
+      "poison"
+    ],
+    "answer": "poison"
+  },
+  {
+    "id": 197,
+    "sentence": "Ade ra ìwà tuntun",
+    "focus_word": "ìwà",
+    "options": [
+      "character",
+      "behavior",
+      "existence",
+      "moral nature"
+    ],
+    "answer": "character"
+  },
+  {
+    "id": 198,
+    "sentence": "Wọn sọ pe ẹ̀dá jẹ pataki",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creation"
+  },
+  {
+    "id": 199,
+    "sentence": "ẹ̀dá Ade ti bajẹ",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  },
+  {
+    "id": 200,
+    "sentence": "A nilo ẹ̀dá fun iṣẹ yii",
+    "focus_word": "ẹ̀dá",
+    "options": [
+      "creature",
+      "person",
+      "creation",
+      "being"
+    ],
+    "answer": "creature"
+  }
+]

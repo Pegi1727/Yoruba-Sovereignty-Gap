@@ -74,7 +74,8 @@ All evaluations were conducted in a strictly controlled, paired setting over $N 
   - Sovereign Incorrect & Baseline Correct: **0**
   - Sovereign Incorrect & Baseline Incorrect: **1**
 
----Merrikhi, P. (2026). The Sovereignty Gap in Yorùbá NLP: Orthographic Integrity, Contextual Disambiguation, and Linguistic Data Sovereignty. Zenodo. https://doi.org/10.5281/zenodo.23037713
+--------------------------------------------------------------------------------------------
+Merrikhi, P. (2026). The Sovereignty Gap in Yorùbá NLP: Orthographic Integrity, Contextual Disambiguation, and Linguistic Data Sovereignty. Zenodo. https://doi.org/10.5281/zenodo.23037713
 
 -----------------------------
 

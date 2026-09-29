@@ -1,0 +1,31 @@
+```json
+{
+  "title": "The Sovereignty Gap in Yoruba NLP: YorTIB-200 Benchmark for Orthographic Preservation and Contextual Lexical-Semantic Disambiguation",
+  "description": "This repository contains the reproducibility materials for the study \"The Sovereignty Gap in Yoruba NLP: Orthographic Preservation and Contextual Lexical-Semantic Disambiguation.\" The project introduces YorTIB-200, a 200-item contextual lexical-semantic benchmark designed to examine the relationship between orthographic representation and contextual semantic disambiguation in Yoruba NLP. The benchmark focuses on six orthographically marked Yoruba lexical forms: ọ̀run, àṣẹ, ìwà, ọkọ, ẹ̀dá, and ògùn, and contains 24 semantic interpretations distributed across contextualized Yoruba sentences. Each item includes a Yoruba sentence, focus word, four candidate meanings, and a gold-standard semantic label. The same 200 benchmark items were evaluated under baseline and sovereignty-preserving representation conditions. The baseline condition correctly classified 77/200 items (38.5%), whereas the sovereignty-preserving condition correctly classified 199/200 items (99.5%), yielding an absolute difference of 61.0 percentage points. In the paired analysis, 122 items changed from incorrect to correct, while one item remained incorrectly classified under both conditions. The exact McNemar test yielded p = 3.76 × 10^-37. The repository provides benchmark data, prediction files, Python and R evaluation scripts, Jupyter notebooks, benchmark audit materials, statistical analysis files, and publication-figure generation scripts. These materials support transparent inspection and computational reproducibility and are intended for research on Yoruba NLP, African-language NLP, low-resource NLP, computational linguistics, lexical-semantic disambiguation, orthographic representation, linguistic data sovereignty, and reproducible NLP research. The reported comparison represents a benchmark-level association between representation conditions and classification performance and does not establish that any single preprocessing component independently causes semantic errors.",
+  "creators": [
+    {
+      "name": "Merrikhi, Pegah",
+      "affiliation": "Independent Researcher in Applied Linguistics",
+      "orcid": "0009-0000-6235-3010"
+    }
+  ],
+  "keywords": [
+    "Yoruba NLP",
+    "African-language NLP",
+    "linguistic data sovereignty",
+    "orthographic representation",
+    "Yoruba orthography",
+    "diacritics",
+    "lexical-semantic disambiguation",
+    "contextual semantics",
+    "low-resource NLP",
+    "computational linguistics",
+    "benchmark",
+    "reproducibility",
+    "NLP datasets",
+    "multilingual NLP"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset"
+}
+```

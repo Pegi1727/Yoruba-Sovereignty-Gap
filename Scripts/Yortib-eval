@@ -1,0 +1,19 @@
+import json
+
+def evaluate(predictions, labels):
+    correct = 0
+    for p, l in zip(predictions, labels):
+        if p == l:
+            correct += 1
+    return correct / len(labels)
+
+if __name__ == "__main__":
+    with open("yortib_200.json","r",encoding="utf-8") as f:
+        data=json.load(f)
+
+    # Example dummy model predictions (replace with your model output)
+    predictions=[item["options"][0] for item in data]
+    labels=[item["answer"] for item in data]
+
+    acc=evaluate(predictions,labels)
+    print("Accuracy:",acc)

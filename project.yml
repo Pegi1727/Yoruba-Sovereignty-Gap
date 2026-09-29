@@ -1,0 +1,129 @@
+```yaml
+project:
+  name: "YorTIB-200"
+  full_title: "The Sovereignty Gap in Yoruba NLP: Orthographic Preservation and Contextual Lexical-Semantic Disambiguation"
+  short_description: "A reproducible Yoruba benchmark for orthographic preservation and contextual lexical-semantic disambiguation."
+
+  author:
+    name: "Pegah Merrikhi"
+    affiliation: "Independent Researcher in Applied Linguistics"
+    orcid: "0009-0000-6235-3010"
+
+  domain:
+    - "Natural Language Processing"
+    - "Computational Linguistics"
+    - "African Language NLP"
+    - "Yoruba NLP"
+    - "Lexical-Semantic Disambiguation"
+    - "Linguistic Data Sovereignty"
+
+benchmark:
+  name: "YorTIB-200"
+  items: 200
+  focus_words: 6
+  semantic_labels: 24
+  candidates_per_item: 4
+  language: "Yoruba"
+
+  focus_words:
+    - "ọ̀run"
+    - "àṣẹ"
+    - "ìwà"
+    - "ọkọ"
+    - "ẹ̀dá"
+    - "ògùn"
+
+evaluation:
+  conditions:
+    - "baseline"
+    - "sovereignty-preserving"
+
+  baseline:
+    correct: 77
+    total: 200
+    accuracy: 0.385
+
+  sovereignty_preserving:
+    correct: 199
+    total: 200
+    accuracy: 0.995
+
+  absolute_accuracy_difference:
+    percentage_points: 61.0
+
+  paired_analysis:
+    both_correct: 77
+    baseline_correct_sovereignty_wrong: 0
+    baseline_wrong_sovereignty_correct: 122
+    both_wrong: 1
+
+  statistical_test:
+    name: "Exact McNemar test"
+    p_value: 3.76e-37
+
+reproducibility:
+  data_formats:
+    - "JSON"
+    - "Excel"
+
+  programming_languages:
+    - "Python"
+    - "R"
+
+  notebooks: 5
+  python_scripts: 5
+  r_scripts: 6
+
+  analyses:
+    - "Benchmark validation"
+    - "Gold-data audit"
+    - "Prediction evaluation"
+    - "Paired classification analysis"
+    - "Exact McNemar testing"
+    - "Bootstrap estimation"
+    - "Focus-word analysis"
+    - "Semantic-category analysis"
+    - "Publication figure generation"
+
+repository:
+  data:
+    - "data/yortib_200.json"
+    - "data/yortib_200.xlsx"
+
+  predictions:
+    - "predictions/baseline.csv"
+    - "predictions/sovereignty_preserving.csv"
+    - "predictions/paired_predictions.csv"
+
+  notebooks:
+    - "notebooks/01_benchmark_validation.ipynb"
+    - "notebooks/02_gold_data_audit.ipynb"
+    - "notebooks/03_prediction_evaluation.ipynb"
+    - "notebooks/04_paired_statistics.ipynb"
+    - "notebooks/05_reproducibility_and_figures.ipynb"
+
+  directories:
+    - "data/"
+    - "predictions/"
+    - "evaluation/"
+    - "audit/"
+    - "notebooks/"
+    - "results/"
+
+interpretation:
+  primary_focus:
+    - "Orthographic preservation"
+    - "Contextual lexical-semantic disambiguation"
+    - "Computational representation"
+    - "Linguistic data sovereignty"
+
+  scope_note: "The benchmark comparison demonstrates an association between representation conditions and classification performance. It does not establish that any single preprocessing component independently causes semantic errors."
+
+license:
+  data: "CC-BY-4.0"
+  code: "MIT"
+
+status:
+  reproducible: true
+  benchmark_version: "1.0.0"
+```
